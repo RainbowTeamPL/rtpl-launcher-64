@@ -1,0 +1,3 @@
+[submodule "rtpl-launcher"]
+	path = rtpl-launcher
+	url = git@github.com:RainbowTeamPL/rtpl-launcher.git
